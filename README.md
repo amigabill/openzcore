@@ -14,5 +14,5 @@ The English document translation was made by
 https://www.onlinedoctranslator.com/translate-chinese-(simplified)-to-english_zh-CN_en
 making use of Google Translate
 
-uart_tools.exe is a rename of a [gibberish].exe file at the yahoo group download page. Beware of an exe from who knows where... Note that this exe file was provided outside and beside the _Pippo-0.9.zip file, and no source code was provided for this piece.
+The YahooGroups downloads page also has a [gibberish].exe executable file. As no source code for that is known to be publically available, I have de-added it to this repository. Beware of unknown *.exe files anyway, right?
 
